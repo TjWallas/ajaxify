@@ -1,5 +1,7 @@
 # Ajaxify
-Ajaxify your entire website instantly with this simple drop-in script using the HTML5 History API with History.js and jQuery ScrollTo. This is a fork of https://github.com/browserstate/ajaxify that fixes some incompatibility issues with other plugins and adds support for disqus comments, NProgress.js and weebly.com hosted websites. See version History for more details on the new features this fork adds.
+Ajaxify your entire website instantly with this simple drop-in script using the HTML5 History API with History.js and jQuery ScrollTo. 
+
+This is a fork of https://github.com/browserstate/ajaxify that fixes some incompatibility issues with other plugins and adds support for disqus comments, NProgress.js and weebly.com hosted websites. See version History for more details on the new features this fork adds.
 
 ## Demo
 Check out how I sexfied my free weebly website: [http://tjwallas.weebly.com](http://tjwallas.weebly.com)
